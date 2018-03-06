@@ -1,0 +1,6 @@
+[submodule "gedit-cloud-hello"]
+	path = gedit-cloud-hello
+	url = https://github.com/conanchen/gedit-cloud-hello.git
+[submodule "gedit-cloud-user"]
+	path = gedit-cloud-user
+	url = https://github.com/conanchen/gedit-cloud-user.git
